@@ -1,1 +1,3 @@
 # nutricaoinfantil
+#Usar:
+npm install

@@ -106,6 +106,12 @@
 /* === Import template variables === */
 /*-------------------------------------------------------------------*/
 /* === SCSS Compass Functions === */
+
+.my-link, .my-link:hover{
+  text-decoration: none;
+  color: #fff;
+}
+
 @-moz-keyframes flash {
   0% {
     opacity: 1; }
